@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @JSTAR-25
 - 👀 I’m interested in learning the fundamentals of coding
-- 🌱 I’m currently learning HTML, CSS & JavaScript
+- 🌱 I’m currently learning HTML, CSS & JavaScript & Python
 - 💞️ I’m looking to collaborate on a project that I could learn more from
 - 📫 How to reach me ...
 
