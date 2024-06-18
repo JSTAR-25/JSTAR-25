@@ -1,3 +1,5 @@
+#CodeCademy Project
+
 import random
 
 name = "Jeremy"
